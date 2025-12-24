@@ -30,10 +30,10 @@ At first I searched on the path in google maps for a few hours but couldn't find
 
 ![google-map](screenshots/screenshot2.png)
 
-I chose the area furthest away from the zoo since it was what the challenge description wanted and I found the exact location it can found
+I chose the area furthest away from the zoo since it was what the challenge description wanted and I found the exact location it can be found
 
 ![flag](screenshots/screenshot3.png)
 
-I tried entering the exact coordinates to 3dp but it didn't work. So i brute force my way until it did.
+I tried entering the exact coordinates to 3dp but it didn't work, so i brute force my way until it did.
 
 The flag is: NYP{1.406, 103.795}
