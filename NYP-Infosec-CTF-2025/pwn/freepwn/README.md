@@ -1,19 +1,20 @@
-# Challenge Name
+# freepwn
 
-**Difficulty:**  
-**Points:**  
-**Solves:**  
+**Difficulty: very easy**  
+**Points: 500 --> 476 **  
+**Solves: 8**  
 
 ---
 
 ## Hints
-- lorem
 
 ---
 
 ## Challenge Description
 
-(put description here)
+This is going to be the easiest pwn challenge you get.
+
+nc chall.nypinfosec.net 8000
 
 ---
 

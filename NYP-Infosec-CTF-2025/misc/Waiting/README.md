@@ -1,19 +1,18 @@
-# Challenge Name
+# Waiting
 
-**Difficulty:**  
-**Points:**  
-**Solves:**  
+**Difficulty: very easy**  
+**Points: 500 --> 372 **  
+**Solves: 17**  
 
 ---
 
 ## Hints
-- lorem
 
 ---
 
 ## Challenge Description
 
-(put description here)
+We do NOT have the time to just sit here and wait for this thing to give us the flag. Find a faster way to get the flag.
 
 ---
 

@@ -1,19 +1,20 @@
-# Challenge Name
+# In Transit
 
-**Difficulty:**  
-**Points:**  
-**Solves:**  
+**Difficulty: very easy**  
+**Points: 500 --> 460**  
+**Solves: 10**  
 
 ---
 
 ## Hints
-- lorem
 
 ---
 
 ## Challenge Description
 
-(put description here)
+Hmmm Where is the nearest bus stop?
+
+Flag format: NYP{bus_stop_lowercase_separated_by_underscore}
 
 ---
 

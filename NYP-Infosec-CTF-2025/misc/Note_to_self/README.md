@@ -1,19 +1,18 @@
-# Challenge Name
+# Note to self
 
-**Difficulty:**  
-**Points:**  
-**Solves:**  
+**Difficulty: easy**  
+**Points: 500 --> 388 **  
+**Solves: 16**  
 
 ---
 
-## Hints
-- lorem
+## Hints 
 
 ---
 
 ## Challenge Description
 
-(put description here)
+A junior analyst left this note on your desk. He says there’s nothing special about it…but you get the feeling he’s hiding something. Can you decode the message?
 
 ---
 

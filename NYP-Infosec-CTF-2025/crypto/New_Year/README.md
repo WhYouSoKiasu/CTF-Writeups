@@ -1,19 +1,18 @@
-# Challenge Name
+# New Year
 
-**Difficulty:**  
-**Points:**  
-**Solves:**  
+**Difficulty: very easy**  
+**Points: 500 --> 416**  
+**Solves: 14**  
 
 ---
 
 ## Hints
-- lorem
 
 ---
 
 ## Challenge Description
 
-(put description here)
+Happy New Year!
 
 ---
 

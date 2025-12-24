@@ -1,19 +1,22 @@
-# Challenge Name
+# horse games
 
-**Difficulty:**  
-**Points:**  
-**Solves:**  
+**Difficulty: easy**  
+**Points: 500 --> 450 **  
+**Solves: 11**  
 
 ---
 
 ## Hints
-- lorem
+- If only apples could run twice in one instant
+
 
 ---
 
 ## Challenge Description
 
-(put description here)
+To celebrate the new year we are having a horse race! I've got alot of money riding on apples please make sure he wins.
+
+horse-games.nypinfosec.net
 
 ---
 

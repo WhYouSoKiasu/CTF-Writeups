@@ -9,7 +9,7 @@
 ## Hints
 - The set seed ensure that you always get the same numbers from randint. just like setting a world seed in Minecraft.
 - We need to undo what they have done to the flag
--One of the operations they did is reversible
+- One of the operations they did is reversible
 
 
 

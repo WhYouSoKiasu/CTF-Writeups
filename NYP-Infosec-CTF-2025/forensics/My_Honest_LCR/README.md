@@ -1,19 +1,18 @@
-# Challenge Name
+# My Honest LCR
 
-**Difficulty:**  
-**Points:**  
-**Solves:**  
+**Difficulty: very easy**  
+**Points: 500 --> 440**  
+**Solves: 12**  
 
 ---
 
 ## Hints
-- lorem
 
 ---
 
 ## Challenge Description
 
-(put description here)
+minecraft is lowk fun
 
 ---
 

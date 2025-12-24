@@ -1,19 +1,21 @@
-# Challenge Name
+# stupid calculator
 
-**Difficulty:**  
-**Points:**  
-**Solves:**  
+**Difficulty: easy**  
+**Points: 500 --> 468**  
+**Solves: 9**  
 
 ---
 
 ## Hints
-- lorem
+- Something something file containing flag
 
 ---
 
 ## Challenge Description
 
-(put description here)
+This is a stupid calculator
+
+stupid-calculator.nypinfosec.net
 
 ---
 

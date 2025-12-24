@@ -1,19 +1,18 @@
-# Challenge Name
+# Numbers 2
 
-**Difficulty:**  
-**Points:**  
-**Solves:**  
+**Difficulty: easy**  
+**Points: 500 --> 450 **  
+**Solves: 11**  
 
 ---
 
 ## Hints
-- lorem
 
 ---
 
 ## Challenge Description
 
-(put description here)
+What is a N
 
 ---
 

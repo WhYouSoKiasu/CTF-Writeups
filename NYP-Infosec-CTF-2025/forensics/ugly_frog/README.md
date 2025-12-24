@@ -1,19 +1,19 @@
-# Challenge Name
+# ugly frog
 
-**Difficulty:**  
-**Points:**  
-**Solves:**  
+**Difficulty: very easy**  
+**Points: 500 --> 356**  
+**Solves: 18**  
 
 ---
 
 ## Hints
-- lorem
+- https://infosecwriteups.com/beginners-ctf-guide-finding-hidden-data-in-images-e3be9e34ae0d
 
 ---
 
 ## Challenge Description
 
-(put description here)
+Please get me away from it.
 
 ---
 

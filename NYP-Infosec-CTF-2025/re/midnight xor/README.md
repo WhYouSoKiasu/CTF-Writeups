@@ -1,19 +1,18 @@
-# Challenge Name
+# midnight xor
 
-**Difficulty:**  
-**Points:**  
-**Solves:**  
+**Difficulty: easy**  
+**Points: 500 --> 468**  
+**Solves: 9**  
 
 ---
 
 ## Hints
-- lorem
 
 ---
 
 ## Challenge Description
 
-(put description here)
+Midnight XOR A mysterious program hides its flag behind an XOR veil. Can you reverse engineer it and recover the secret?
 
 ---
 

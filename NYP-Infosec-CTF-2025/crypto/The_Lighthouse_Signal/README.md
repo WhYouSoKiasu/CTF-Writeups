@@ -1,19 +1,20 @@
-# Challenge Name
+# The Lighthouse Signal
 
-**Difficulty:**  
-**Points:**  
-**Solves:**  
+**Difficulty: easy**  
+**Points: 500 --> 402**  
+**Solves: 15**  
 
 ---
 
 ## Hints
-- lorem
 
 ---
 
 ## Challenge Description
 
-(put description here)
+You have been tasked to decode the binary and messages as your very first task of the year.
+
+Flag format: NYP{the_secret_message_in_lowercase_separated_by_underscores} (No spaces)
 
 ---
 
