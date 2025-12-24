@@ -28,8 +28,10 @@ When loaded into the website, it shows a countdown for New Years.
 
 When scrolled down to the footer, it shows that this website is a Web Daddy project, which gives us a clue on who created this site.
 
-![directors](screenshots/screenshot2.png)
+![footer](screenshots/screenshot2.png)
 
 I searched the internet for the company "Web Daddy" and found information about 2 people who work there, PURNELL, Simon and WILSON, James Antony
+
+![directors](screenshots/screenshot3.png)
 
 The flag is: NYP{PURNELL,WILSON}
