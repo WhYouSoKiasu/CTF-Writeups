@@ -22,4 +22,4 @@ By putting the first few numbers into google, it tells me that it is the Token I
 
 To decode, I used a script which produced the flag
 ![Flag](screenshots/screenshot1.png)
-
+Flag: NYP{I_KNOW_WHAT_THE_NUMBERS_ARE}
