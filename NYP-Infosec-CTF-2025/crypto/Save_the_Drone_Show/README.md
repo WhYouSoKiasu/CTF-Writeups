@@ -33,7 +33,7 @@ When decoded from Base64, it produced:
 
 ![decoded](screenshots/screenshot1.png)
 
-The same text of "ALC{Y4HaPu_qeba3._5u0j}" was repeated, which looks like a flag
+The same text of "ALC{Y4HaPu_qeba3._5u0j}" was repeated, which looks like the flag
 
 Afterwards I went to a shift cipher decoder and bruteforce possible shifts. Shift 13 decrypts the cipher:
 

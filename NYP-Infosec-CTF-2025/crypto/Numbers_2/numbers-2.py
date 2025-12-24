@@ -1,25 +1,15 @@
-from Crypto.Util.number import long_to_bytes
+from Crypto.Util.number import bytes_to_long, getPrime
 
-# The ciphertext from the challenge
-ct = 0x756b45c7f89ef9544e4fa53bce87946c0b17df562cec738e89562e01a9bda7916785b16a3eee9d3b53c060bfa051851d6c4c9d85ee0a2be1e624d632569e7ec65fd48e632e25b71a44f08f8d9f7fa4e7f5833bec9f865
+e = 3
+p = getPrime(512)
+q = getPrime(512)
+n = p * q
 
-# Function to calculate integer cube root
-def integer_cube_root(n):
-    low = 0
-    high = n
-    while low < high:
-        mid = (low + high) // 2
-        if mid**3 < n:
-            low = mid + 1
-        else:
-            high = mid
-    return low
+m = bytes_to_long(b"NYP{REDACTED}")
+ct = pow(m, e, n)
 
+print(f"e={hex(e)}")
+print(f"ct={hex(ct)}")
 
-# 1. Calculate the cube root of the ciphertext to get the message integer (m)
-m_int = integer_cube_root(ct)
-
-# 2. Convert the integer back to bytes
-flag = long_to_bytes(m_int)
-
-print(flag.decode())
+# e=0x3
+# ct=0x756b45c7f89ef9544e4fa53bce87946c0b17df562cec738e89562e01a9bda7916785b16a3eee9d3b53c060bfa051851d6c4c9d85ee0a2be1e624d632569e7ec65fd48e632e25b71a44f08f8d9f7fa4e7f5833bec9f865
