@@ -22,4 +22,7 @@ horse-games.nypinfosec.net
 
 ## Solve
 
-(put solution here)
+When loaded, it shows 2 horses and a Run button. However, apples always loses the race.
+
+
+![newyear1](screenshots/screenshot3.png)
