@@ -26,7 +26,7 @@ First I go to the main function and look at the decompiled code.
 
 ![decompiled-code](screenshots/screenshot1.png)
 
-In the code it required a password: My5tr0ngP@ssw0rd123! 
+In the code it showed a password: My5tr0ngP@ssw0rd123! 
 
 To run the code, I need a linux environment so I downloaded Fedora43 from my Operating Systems module and ran it in my Virtual Environment.
 
