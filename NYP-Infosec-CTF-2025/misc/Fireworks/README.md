@@ -27,11 +27,11 @@ The encryption looks random at first, but the code uses seed(914), which means t
 
 Each character of the flag is encrypted by shifting it forward in a fixed character set (wheel) by a random amount. To reverse this, I reused the same seed and generated the same shifts, but subtracted the shift instead of adding it.
 
-Since the encryption was:
-![Encryption](screenshots/firework1.png)
+Since the encryption was done by adding shift % length,:
+![Encryption](screenshots/screenshot1.png)
 
-I reversed the encryption using:
-![Decryption](screenshots/firework2.png)
+I reversed the encryption by subtrating shift % length:
+![Decryption](screenshots/screenshot2.png)
 
 
 The decrypted flag output was: NYP{LET_THE_FIREWORKS_BEGIN}
