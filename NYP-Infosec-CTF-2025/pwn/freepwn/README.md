@@ -49,12 +49,12 @@ To get the win address, I used the command "nm chal | grep win"
 The win address is 0x401238
 
 Now we can start the buffer overflow attack. I used the command "(python3 solve.py; cat -) | nc chall.nypinfosec.net 8000" 
-- python3 solve.py: Generates the raw bytes (padding + Ret Gadget + Win address) and prints them to the standard output. This is sent down the pipe to the server and triggers buffer overflow attack
-- cat: Used to read from the standard input
+- (python3 solve.py): Generates the raw bytes (padding + Ret Gadget + Win address) and prints them to the standard output. This is sent down the pipe to the server and triggers buffer overflow attack
+- cat-: Used to read from the standard input
 - nc chall.nypinfosec.net 8000: The server that stores the flag
 
 ![flag](screenshots/screenshot5.png)
 
-Afterwards I run the command "ls" which lists all files in the directory and used the command "cat flag.txt" to read the flag file.
+Afterwards I ran the command "ls" which lists all files in the directory and used the command "cat flag.txt" to read the flag file.
 
 The flag is: NYP{PWn_iS_s0_3azy_gAng}
