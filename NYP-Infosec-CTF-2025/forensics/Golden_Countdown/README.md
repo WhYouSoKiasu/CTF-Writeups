@@ -20,4 +20,10 @@ Can you find it?
 
 ## Solve
 
-(put solution here)
+Go to metadata2go.com to check metadata of images and insert ugly_frog1.gif
+
+The "artist" section in the metadata reveals the flag:
+
+![metadata-results](screenshots/screenshot1.png)
+
+The flag is: NYP{TH15_15_4_J0Jo_R3F3ReNCE}
