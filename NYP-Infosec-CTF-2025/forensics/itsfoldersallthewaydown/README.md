@@ -28,12 +28,12 @@ There are lots of folders here with a file called "whatdis.rar" which requires a
 
 The clue is to search for the text 'NYPctf' among the many folders and files. 
 
-To do this, I run the command "findstr /S /I /M "NYPCtF" '*.*'" in command prompt in the root folder
+To do this, I run the command `findstr /S /I /M "NYPCtF" *.*` in Command Prompt in the root folder.
 - /S searches all sub folders
 - /I so search is not case-sensitive
 - /M to only show file names
 - "NYPctf" is the string to search
-- *.* to search all files
+- `*.* to search all files`
 
 ![cmd](screenshots/screenshot2.png)
 
