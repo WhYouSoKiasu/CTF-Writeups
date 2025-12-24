@@ -30,8 +30,8 @@ The image was taken at Qianmen Street, Beijing, China. I went there using google
 
 ![googlemap](screenshots/screenshot2.png)
 
-Afterwards I went to google map and searched for the nearest station, which is "Zhushikou"
+Afterwards I went to google map and searched for the nearest station. I tried many nearby stations but it didn't work. However after a while, the one that worked was "Zhushikou"
 
-![googlemap](screenshots/screenshot3.png)
+![flag](screenshots/screenshot3.png)
 
 The flag is: NYP{zhushikou}
