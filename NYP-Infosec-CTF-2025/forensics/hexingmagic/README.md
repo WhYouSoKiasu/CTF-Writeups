@@ -36,13 +36,14 @@ To fix the file, reconstruct the standard WebP header structure as follows:
 - Offset 04-07: 3C 18 00 00 (File Size) --> Explained below 
 - Offset 08-0B: 57 45 42 50 (ASCII: WEBP)
 
-File size is calculate by going to properties and converting the bytes to hexadecimal. 6212 bytes --> 18 3C --> Little endian way is:3C 18  
+File size is calculate by going to properties and converting the bytes to hexadecimal. 6212 bytes --> 18 3C --> Little endian way is 3C 18  
 ![size](screenshots/screenshot3.png)
 
 After changing the header, the image opened is:
 ![stickbug](screenshots/screenshot4.png)
 
-I assume that's the password and entered stickbug as the password for congrats.txt:
-![stickbug](screenshots/screenshot5.png)
+I assume that's the password and entered stickbug as the password for congrats.txt, which is correct
 
-The flag is: NYP{{Cel3BraT1ON}}
+![flag](screenshots/screenshot5.png)
+
+The flag is: NYP{Cel3BraT1ON}
