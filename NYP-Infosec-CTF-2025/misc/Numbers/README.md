@@ -18,4 +18,8 @@ What do the numbers mean? 200264, 17360, 200266, 3575, 553, 261, 10297, 29186, 1
 
 ## Solve
 
-(put solution here)
+By putting the first few numbers into google, it tells me that it is the Token IDs for the GPT-4o language model (specifically the o200k_base tokenizer)
+
+To decode, I used a script which produced the flag
+![Flag](screenshots/screenshot1.png)
+
