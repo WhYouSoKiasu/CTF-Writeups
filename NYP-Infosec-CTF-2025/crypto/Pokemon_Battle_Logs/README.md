@@ -18,4 +18,16 @@ During the Poké Cup 2025 finals, a high-intensity battle unfolded between Ash K
 
 ## Solve
 
-(put solution here)
+In the rules, it said that the key is XORed with a secret key and result is encoded using Base64.
+
+All of Team rocket's message when decoded from Base64 translates to: "START_PROTOCOL:ENGAGE_BATTLE_LINK_OVERRIDE:ARENA_LOGS_CONTAIN_THE_FLAG:USE_KEY_'SunAndMoon'_TO_DECRYPT:END_PROTOCOL"
+
+![decoded](screenshots/screenshot1.png)
+
+There's a message at the bottom of the battle logs: I0UFJAMLIzAJXyFGMRMLAA==
+
+When decoded from Base64 and XORed with key 'SunAndMoon' it outputs:
+
+![flag](screenshots/screenshot2.png)
+
+Flag: NYP{p0kemon_f1r3_Red} 

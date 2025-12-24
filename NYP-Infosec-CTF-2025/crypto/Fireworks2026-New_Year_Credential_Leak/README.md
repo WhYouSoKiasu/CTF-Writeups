@@ -30,7 +30,7 @@ The password is: ALC{u5J_Q6q_l5h_S5hA9_z8}, which looks like it can be decrypted
 
 I first used caeser cipher to decrypt it, however it was wrong. Result: NYP{h5W_D6d_y5u_F5uN9_m8}
 
-afterwards I tried ROT18 cipher decoder which shifts numbers too
+Afterwards I tried ROT18 cipher decoder which shifts numbers too
 
 ![flag](screenshots/screenshot3.png)
 
