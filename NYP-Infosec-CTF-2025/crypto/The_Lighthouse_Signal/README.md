@@ -20,7 +20,9 @@ Flag format: NYP{the_secret_message_in_lowercase_separated_by_underscores} (No s
 
 ## Solve
 
-The binary:'01010011 01000101 01010110 01000101 01001110' decodes to SEVEN 
+In "The_Lighthouse_signal.txt" at the bottom contains the message "Beneath it, the system also recorded a line of diagnostic bits: 01010011 01000101 01010110 01000101 01001110"
+
+The binary: '01010011 01000101 01010110 01000101 01001110' decodes to SEVEN 
 
 ![decoded](screenshots/screenshot1.png)
 

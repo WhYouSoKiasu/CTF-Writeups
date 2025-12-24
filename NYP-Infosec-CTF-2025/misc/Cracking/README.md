@@ -37,4 +37,6 @@ In the famous song and lyrics, the previous challenge at Note to self has a rick
 - Line 26-27: 17 7 12 18 / 16 11. F L A G / I S --> FLAG IS
 - Line 28 (The Flag):25 6 4 { 19 24 12 19 2 22 24 11 _ 17 15 24 _ 6 15 20 }. N Y P { C R A C _ E R S _ F O R _ Y O U }Context tells us the missing letter _ (2) is K.
 
+Final message: HELLO THERE. IF YOU ARE READING THIS, YOU MIGHT HAVE FIGURED OUT THE CODE. WELL DONE, I CERTAINLY HOPE YOU ENJOYED THIS PUZZLE. ANYWAYS, THE FLAG IS NYP{CRACKERS_FOR_YOU}
+
 Flag: NYP{CRACKERS_FOR_YOU}

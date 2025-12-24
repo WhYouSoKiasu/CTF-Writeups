@@ -44,7 +44,7 @@ However, when accessing the response section it shows an error.
 I opened command prompt and typed in the command "curl -i https://new-year-hidden-gift.nypinfosec.net/newyeargift1" to display the response message.
 
 - curl is a command tool used to fetch URLs
-- -1 tells curl to include HTTP headers
+- -i tells curl to include HTTP headers
 
 
 ![newyear1](screenshots/screenshot2.png)

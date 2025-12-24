@@ -56,11 +56,11 @@ I rearranged the Github repo link from doneedanickname.github.io/allroads/ to ht
 
 The IV and Key still do not work to decrypt the link. Which frustrated me, but then I considered decrypting the original IV and Key provided using the IV and key found in the wayback machine.
 
-Decrypted IV: 30313233343536373839404142434445
 ![decryptedIV](screenshots/screenshot9.png)
+Decrypted IV: 30313233343536373839404142434445
 
-Decrypted Key: 546573745F4B65793132333435363738
 ![decryptedKey](screenshots/screenshot10.png)
+Decrypted Key: 546573745F4B65793132333435363738
 
 Finally I decrypted the google drive link using the decrypted IV and Key, which gives https://drive.google.com/drive/folders/1o9hTYLr_iHMwJLDgq0jKsJkkV-4w0oFC?usp=sharing
 
