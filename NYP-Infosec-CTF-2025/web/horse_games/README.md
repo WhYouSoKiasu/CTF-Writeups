@@ -24,5 +24,22 @@ horse-games.nypinfosec.net
 
 When loaded, it shows 2 horses and a Run button. However, apples always loses the race.
 
+![horserace](screenshots/screenshot1.png)
 
-![newyear1](screenshots/screenshot3.png)
+In the app.py, there is a suspicious function which creates an artificial delay, forcing the server to pause for a fraction of a second 
+
+
+[function](screenshots/screenshot2.png)
+
+
+Furthermore, the check win condition is ran first before checking if the evil horse wins. 
+
+
+I used BurpSuite to send multiple requests at once to the server.
+- Send the HTTP request to repeater
+- Duplicate about 15 tabs and group them together
+- Send in group (parallel)
+
+[flag](screenshots/screenshot3.png)
+
+The flag is: NYP{1_L0v3_Hor5e_6am8lin}
