@@ -28,12 +28,9 @@ When loaded, it shows 2 horses and a Run button. However, apples always loses th
 
 In the app.py, there is a suspicious function which creates an artificial delay, forcing the server to pause for a fraction of a second 
 
-
 [function-horse](screenshots/screenshot2.png)
 
-
 Furthermore, the check win condition is ran first before checking if the evil horse wins. 
-
 
 I used BurpSuite to send multiple requests at once to the server.
 - Send the HTTP request to repeater
