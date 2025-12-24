@@ -22,7 +22,7 @@ I opened the file using Ghidra and analyzed the file.
 
 First I go to the "Functions" directory and went to the "main" function.
 
-I examined the code and found the flag quite easily...
+I examined the decompiled code and found the flag quite easily...
 
 ![flag](screenshots/screenshot1.png)
 
