@@ -18,4 +18,21 @@ During the New Year 2026 celebration, Fireworks2026 Marketplace accidentally lea
 
 ## Solve
 
-(put solution here)
+I went into the usernames.txt and pressed Ctrl + F to search for Danial
+
+![danial](screenshots/screenshot1.png)
+
+I pressed Ctrl + G to find the line number, which is 268, and went to line 268 in passwords.txt
+
+![passwords](screenshots/screenshot2.png)
+
+The password is: ALC{u5J_Q6q_l5h_S5hA9_z8}, which looks like it can be decrypted using shift cipher
+
+I first used caeser cipher to decrypt it, however it was wrong. Result: NYP{h5W_D6d_y5u_F5uN9_m8}
+
+afterwards I tried ROT18 cipher decoder which shifts numbers too
+
+![flag](screenshots/screenshot3.png)
+
+Flag: NYP{h0W_D1d_y0u_F0uN4_m3}
+

