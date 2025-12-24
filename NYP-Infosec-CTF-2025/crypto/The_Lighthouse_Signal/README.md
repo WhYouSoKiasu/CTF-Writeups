@@ -28,4 +28,4 @@ Afterwards, I used shift cipher with shift of 7 to decode the message: "aol zavy
 
 ![decoded](screenshots/screenshot2.png)
 
-The flag is:NYP{the_storm_hits_at_midnight} 
+The flag is: NYP{the_storm_hits_at_midnight} 
