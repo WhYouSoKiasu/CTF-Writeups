@@ -22,4 +22,14 @@ Flag format is NYP{ARDEN,SHERLOCK,WATSON,} with surnames of all the directors of
 
 ## Solve
 
-(put solution here)
+When loaded into the website, it shows a countdown for New Years.
+
+![newyear-countdown](screenshots/screenshot1.png)
+
+When scrolled down to the footer, it shows that this website is a Web Daddy project, which gives us a clue on who created this site.
+
+![directors](screenshots/screenshot2.png)
+
+I searched the internet for the company "Web Daddy" and found information about 2 people who work there, PURNELL, Simon and WILSON, James Antony
+
+The flag is: NYP{PURNELL,WILSON}

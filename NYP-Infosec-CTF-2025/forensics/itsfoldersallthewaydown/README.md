@@ -45,7 +45,7 @@ The 16 proceeding characters after 'NYPctf' are 'VMMV084423HBVMMV', which when d
 
 ![vignere_decode](screenshots/screenshot4.png)
 
-Results are: 'GOTO084423TOGOTO', which appears to be the file path for the 8th folder, 44th folder and 23rd file. At the destination is the file 'FindMe23.txt'
+Results are: 'GOTO084423TOGOTO', which appears to be the file path to the 8th folder, 44th folder and 23rd file. At the destination is the file 'FindMe23.txt'
 
 ![findme23](screenshots/screenshot5.png)
 
