@@ -29,3 +29,9 @@ Each character of the flag is encrypted by shifting it forward in a fixed charac
 
 Since the encryption was:
 ![Encryption](screenshots/firework1.png)
+
+I reversed the encryption using:
+![Decryption](screenshots/firework2.png)
+
+
+The decrypted flag output was: NYP{LET_THE_FIREWORKS_BEGIN}
